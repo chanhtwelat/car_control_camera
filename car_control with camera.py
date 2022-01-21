@@ -8,7 +8,7 @@ GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
 
 # define motor pins
-IN1 = 7  #GPIO Pin GPIO 4
+IN1 = 11  #GPIO Pin GPIO 7
 IN2 = 17 #GPIO Pin GPIO 17
 IN3 = 13 #GPIO Pin GPIO 27
 IN4 = 15 #GPIO Pin GPIO 22
